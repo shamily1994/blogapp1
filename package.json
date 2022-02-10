@@ -7,7 +7,7 @@
     "devStart": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "shamily",
   "license": "ISC",
   "dependencies": {
     "dompurify": "^2.0.8",
